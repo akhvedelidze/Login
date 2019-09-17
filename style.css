@@ -12,13 +12,21 @@ h2
 {
 font-style: normal;
 color: white;
-font-size: 48px
+font-size: 48px;
+display: flex;
 }
 
 .input 
 {
-
+font-style: normal; color: white;
+height: 33px;
 border-radius: 4px;
+margin: 10px;
+background-color: rgba(100, 100, 100, 0.5);
+}
 
-
+.form
+{
+display: flex;
+justify-content: center;
 }
