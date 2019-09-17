@@ -1,0 +1,24 @@
+/* Add your CSS here */
+
+body {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-image: url("assets/bg.jpg");
+}
+
+h2
+{
+font-style: normal;
+color: white;
+font-size: 48px
+}
+
+.input 
+{
+
+border-radius: 4px;
+
+
+}
